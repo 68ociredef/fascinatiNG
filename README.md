@@ -6,10 +6,10 @@ FascinatiNG is a User Interface (UI) component library whose functionality is to
 
 ## Features
 
-   *30+ high-quality Angular components out of the box.
-   *Written in TypeScript with complete defined types.
-   *Support OnPush mode, high performance.
-   *Powerful theme customization in every detail.
+   * 30+ high-quality Angular components out of the box.
+   * Written in TypeScript with complete defined types.
+   * Support OnPush mode, high performance.
+   * Powerful theme customization in every detail.
 
 ## Angular Support
 
