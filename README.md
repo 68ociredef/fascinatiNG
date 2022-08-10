@@ -77,7 +77,7 @@ Some components use animations to imporove user expirience so you have to import
 
 ## Theme
 
-To Run themes have to include setThemes() in style.scss
+To run **themes** have to include setThemes() in style.scss
 
 ```ts
 
