@@ -13,7 +13,7 @@ FascinatiNG is a User Interface (UI) component library whose functionality is to
 
 ## Angular Support
 
-FascinatingNG support Angular ^13.0.0
+FascinatingNG support Angular ^12.0.0
 
 ## Installation
 
