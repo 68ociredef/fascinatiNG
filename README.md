@@ -1,5 +1,11 @@
 # FascinatiNG
 
+<p align="center">
+  <a href="https://github.com/turkraft/spring-filter">
+    <img src="https://i.ibb.co/NSWDh4Q/fascinating.png" alt="Spring Filter Logo" width="180">
+  </a>
+</p>
+
 ## What is FascinatiNG ?
 
 FascinatiNG is a User Interface (UI) component library whose functionality is to facilitate the construction of attractive, consistent and functional web pages or web applications.
