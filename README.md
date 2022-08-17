@@ -1,7 +1,7 @@
 # FascinatiNG
 
 <p align="center">
-  <a href="https://github.com/turkraft/spring-filter">
+  <a href="https://github.com/68ociredef/fascinatiNG">
     <img src="https://i.ibb.co/NSWDh4Q/fascinating.png" alt="Spring Filter Logo" width="180">
   </a>
 </p>
