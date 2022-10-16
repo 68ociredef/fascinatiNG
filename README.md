@@ -1,11 +1,5 @@
 # FascinatiNG
 
-<p align="center">
-  <a href="https://github.com/68ociredef/fascinatiNG">
-    <img src="https://ibb.co/1s5sSz6" alt="Spring Filter Logo" width="220">
-  </a>
-</p>
-
 ## What is FascinatiNG ?
 
 FascinatiNG is a User Interface (UI) component library whose functionality is to facilitate the construction of attractive, consistent and functional web pages or web applications.
@@ -19,17 +13,20 @@ FascinatiNG is a User Interface (UI) component library whose functionality is to
 
 ## Angular Support
 
-FascinatingNG support Angular ^12.0.0
+ Angular       | FascinatiNG
+ ------------- | ---------------
+ 14 (ivy only) | 3.x
+ 13 (ivy only) | 2.x+               
+ 12/13/14      | 1.x+               
+ 
 
 ## Installation
 
 To install FascinatiNG run the following command :
 
 
-```
-
-   npm i fascinating
-
+``` sh
+    npm i fascinating
 ```
 
 ## Style configuration
@@ -59,10 +56,9 @@ Add in angular.json file of your app.
 
 ```
 
-
 ## Animation
 
-Some components use animations to imporove user expirience so you have to import **BroswerAnimationModule** in your app.
+Some components use animations to imporove user expirience, so you have to import **BroswerAnimationModule** in your app.
 
 ```ts
 
@@ -83,7 +79,7 @@ Some components use animations to imporove user expirience so you have to import
 
 ## Theme
 
-To run **themes** have to include setThemes() in style.scss
+To Run themes have to include setThemes() in style.scss
 
 ```ts
 
