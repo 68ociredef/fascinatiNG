@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/68ociredef/fascinatiNG">
-    <img src="https://i.ibb.co/NSWDh4Q/fascinating.png" alt="Spring Filter Logo" width="220">
+    <img src="https://ibb.co/1s5sSz6" alt="Spring Filter Logo" width="220">
   </a>
 </p>
 
