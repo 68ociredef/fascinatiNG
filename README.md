@@ -19,11 +19,12 @@ FascinatiNG is a User Interface (UI) component library whose functionality is to
 
 ## Angular Support
 
- Angular       | FascinatiNG
- ------------- | ---------------
- 14 (ivy only) | 3.x+
- 13 (ivy only) | 2.x+               
- 12/13/14      | 1.x+               
+ Angular       | FascinatiNG     | Status      |
+ ------------- | --------------- | ----------- |
+ 15 (ivy only) | 4.x             | Active      |
+ 14 (ivy only) | 3.x             | Bug         |
+ 13 (ivy only) | 2.x+            | -           |
+ 12/13/14      | 1.x+            | -           |             
  
 
 ## Installation
