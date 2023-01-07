@@ -9,7 +9,10 @@
 ## What is FascinatiNG ?
 
 FascinatiNG is a User Interface (UI) component library whose functionality is to facilitate the construction of attractive, consistent and functional web pages or web applications.
-/npm/v/:packageName/:tag
+<p align="center">
+<a href="https://github.com/airbytehq/airbyte/stargazers/" target="_blank">
+    <img src="https://img.shields.io/github/stars/airbytehq/airbyte?style=social&label=Star&maxAge=2592000" alt="Test">
+</a>
 
 ## Features
 
