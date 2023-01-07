@@ -4,9 +4,7 @@
   </a>
 </p>
 
-## What is FascinatiNG ?
-
-FascinatiNG is a User Interface (UI) component library whose functionality is to facilitate the construction of attractive, consistent and functional web pages or web applications.
+A User Interface (UI) component library whose functionality is to facilitate the construction of attractive, consistent and functional web pages or web applications.
 <p align="center">
 <a href="https://github.com/68ociredef/fascinatiNG/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/68ociredef/fascinatiNG?style=social&label=Star&maxAge=2592000" alt="Test">
