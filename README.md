@@ -1,5 +1,3 @@
-# FascinatiNG
-
 <p align="center">
   <a href="https://github.com/68ociredef/fascinatiNG">
     <img src="https://imagizer.imageshack.com/img922/4490/5KPxID.png" alt="Spring Filter Logo" width="180">
