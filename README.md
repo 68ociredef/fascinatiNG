@@ -9,6 +9,7 @@
 ## What is FascinatiNG ?
 
 FascinatiNG is a User Interface (UI) component library whose functionality is to facilitate the construction of attractive, consistent and functional web pages or web applications.
+/npm/v/:packageName/:tag
 
 ## Features
 
