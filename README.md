@@ -9,9 +9,9 @@ A User Interface (UI) component library whose functionality is to facilitate the
 <a href="https://github.com/68ociredef/fascinatiNG/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/68ociredef/fascinatiNG?style=social&label=Star&maxAge=2592000" alt="Test">
 </a>
-<a href="https://www.npmjs.com/~fascinating" target="_blank"><img src="https://img.shields.io/npm/v/fascinating" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~fascinating" target="_blank"><img src="https://img.shields.io/npm/l/fascinating" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~fascinating" target="_blank"><img src="https://img.shields.io/npm/dm/fascinating" alt="NPM Downloads" /></a>
+<a href="https://www.npmjs.com/~68ociredef" target="_blank"><img src="https://img.shields.io/npm/v/fascinating" alt="NPM Version" /></a>
+<a href="https://www.npmjs.com/~68ociredef" target="_blank"><img src="https://img.shields.io/npm/l/fascinating" alt="Package License" /></a>
+<a href="https://www.npmjs.com/~68ociredef" target="_blank"><img src="https://img.shields.io/npm/dm/fascinating" alt="NPM Downloads" /></a>
 
 ## Features
 
