@@ -12,7 +12,7 @@ An <a href="https://angular.io/" target="_blank">Angular</a> User Interface (UI)
 <a href="https://www.npmjs.com/~68ociredef" target="_blank"><img src="https://img.shields.io/npm/v/fascinating" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~68ociredef" target="_blank"><img src="https://img.shields.io/npm/l/fascinating" alt="Package License" /></a>
 <a href="https://www.npmjs.com/~68ociredef" target="_blank"><img src="https://img.shields.io/npm/dm/fascinating" alt="NPM Downloads" /></a>
-<a href="https://img.shields.io/npm/dt/fascinatiNG.svg?style=flat-square" target="_blank"><img src="https://www.npmjs.com/package/fascinatiNG" alt="NPM Downloads total"/></a>
+<a href="https://www.npmjs.com/~68ociredef" target="_blank"><img src="https://img.shields.io/npm/dt/fascinatiNG.svg?style=flat-square" alt="NPM Downloads total"/></a>
 <a href="https://angular.io/"><img src="https://img.shields.io/badge/%3C%2F%3E-Angular-red"></a>
 
 ## Features
