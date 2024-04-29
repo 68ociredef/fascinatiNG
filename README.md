@@ -26,7 +26,8 @@ An <a href="https://angular.io/" target="_blank">Angular</a> User Interface (UI)
 
  Angular       | FascinatiNG     | Status      |
  ------------- | --------------- | ----------- |
- 15 (ivy only) | 4.x             | Active      |
+ 16 (ivy only) | 5.x             | Active      |
+ 15 (ivy only) | 4.x             | Bug         |
  14 (ivy only) | 3.x             | Bug         |
  13 (ivy only) | 2.x+            | -           |
  12/13/14      | 1.x+            | -           |             
